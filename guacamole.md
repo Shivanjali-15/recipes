@@ -4,8 +4,8 @@
 - Coriander
 - Red onion
 - Lemon juice
-- Salt
 - Lime Juice
+- Salt
 - Pepper
 
 ## Instructions
